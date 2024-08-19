@@ -9,6 +9,7 @@
 <br/>
 
 <div align="center">
+
  
  🔭 I’m currently working on **<a href="https://app.citycarpark.my/main/" style="text-decoration:none;color:inherit;">CityCarPark Application</a>**
  
@@ -38,7 +39,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,bootstrap,postman,html,css,vscode,github,figma,tailwind,git,prisma" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,c,java,nextjs,mysql,ruby,laravel" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,c,java,mysql,ruby,laravel" /><br>
 </div>
 
 <br/>
