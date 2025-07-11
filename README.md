@@ -13,11 +13,11 @@
  
  🔭 I’m currently working on **<a href="https://app.citycarpark.my/main/" style="text-decoration:none;color:inherit;">CityCarPark Application</a>**
  
- 🌱 I’m currently learning **React.Js, Node.Js, Express.Js, Prisma**
+ 🌱 I’m currently learning **Golang Go, Swift**
 
-💬 Ask me about **Laravel, Flutter, Firebase... or anything [here](https://github.com/ApizMan/ApizMan/issues)**
+💬 Ask me about **Laravel, Flutter, Node.Js, Express.Js, Next.JS Firebase... or anything [here](https://github.com/ApizMan/ApizMan/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Success is impossible, but it can be achieve**
 
  </div>
  
