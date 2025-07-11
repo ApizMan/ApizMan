@@ -15,7 +15,7 @@
  
  🌱 I’m currently learning **Golang Go, Swift**
 
-💬 Ask me about **Laravel, Flutter, Node.Js, Express.Js, Next.JS Firebase... or anything [here](https://github.com/ApizMan/ApizMan/issues)**
+💬 Ask me about **Laravel, Flutter, Node.Js, Express.Js, Next.JS... or anything [here](https://github.com/ApizMan/ApizMan/issues)**
 
 ⚡ Fun fact **Success is impossible, but it can be achieve**
 
