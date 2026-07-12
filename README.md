@@ -1,8 +1,10 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ApizMan.ApizMan&title=Profile+Views" />
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:8B5CF6&height=220&section=header&text=Muhammad%20Nafiz%20Mansor&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Flutter%20%C2%B7%20React%20%C2%B7%20Node.js%20%C2%B7%20Laravel&descAlignY=52&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nafiz+%F0%9F%91%8B;Building+scalable+web+%26+mobile+apps;Flutter+%7C+React.js+%7C+Node.js+%7C+Laravel;Powered+by+Claude+Code+%26+GitHub+Copilot" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nafiz+%F0%9F%91%8B;Building+scalable+web+%26+mobile+apps;Flutter+%7C+React.js+%7C+Node.js+%7C+Laravel" alt="Typing SVG" />
 
 <img align="right" width="35%" src="https://raw.githubusercontent.com/ApizMan/ApizMan/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 
@@ -62,11 +64,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ApizMan&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=12&hide_border=true&cache_seconds=1800" alt="readme stats" />
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApizMan&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&cache_seconds=1800" alt="top langs" />
-</div>
-
-<div align="center">
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=apizman&theme=tokyonight&border_radius=12&hide_border=true" alt="streak stats" />
 </div>
 
@@ -82,8 +79,4 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:0EA5E9&height=120&section=footer" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ApizMan.ApizMan&title=Profile+Views" />
 </div>
