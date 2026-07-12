@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:8B5CF6&height=220&section=header&text=Muhammad%20Nafiz%20Mansor&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Flutter%20%C2%B7%20React%20%C2%B7%20Node.js%20%C2%B7%20Laravel&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:8B5CF6&height=220&section=header&text=Muhammad%20Nafiz%20Mansor&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%7C%20Software%20Developer%20%7C%20Backend%20Developer%20%7C%20Frontend%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=55&descSize=14" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nafiz+%F0%9F%91%8B;Building+scalable+web+%26+mobile+apps;Flutter+%7C+React.js+%7C+Node.js+%7C+Laravel" alt="Typing SVG" />
 
