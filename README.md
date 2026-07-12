@@ -62,8 +62,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=apizman&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=12&hide_border=true" alt="readme stats" />
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apizman&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=12&hide_border=true" alt="top langs" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ApizMan&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=12&hide_border=true&cache_seconds=1800" alt="readme stats" />
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApizMan&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&cache_seconds=1800" alt="top langs" />
 </div>
 
 <div align="center">
