@@ -28,7 +28,7 @@
 ## 🔗 Connect With Me
 
 <div align="center">
-  <a href="https://nafiz-mansor-portfolio.web.app/" target="_blank">
+  <a href="https://muhammad-nafiz-mansor.com.my/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/muhammad-nafiz-mansor" target="_blank">
